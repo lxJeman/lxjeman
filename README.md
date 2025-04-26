@@ -19,7 +19,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" alt="AI Gif" />
+<img align="left" height="150" src="data/874fvf.gif" alt="AI Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
