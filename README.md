@@ -55,7 +55,7 @@
 
 ###
 
-<img align="left" height="150" src="data/nagatoro-ijiranaide-nagatoro-san.gif" alt="Frontend Gif" />
+<img align="left" height="150" src="data/yoru-yoru-chainsaw-man.gif" alt="Frontend Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -179,7 +179,7 @@
 
 ###
 
-<img align="left" height="150" src="data/874fvf.gif" alt="Other Gif" />
+<img align="left" height="150" src="data/steaming-stressed.gif" alt="Other Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" />
