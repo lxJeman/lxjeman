@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Design Gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media1.tenor.com/m/QHpICcsD_QAAAAAd/marin-nervous.gif" alt="Design Gif" />
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
