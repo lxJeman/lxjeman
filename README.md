@@ -19,7 +19,7 @@
 
 ###
 
-<img align="left" height="150" src="data/tenor.gif" alt="AI Gif" />
+<img align="left" height="200" src="data/tenor.gif" alt="AI Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
@@ -179,7 +179,7 @@
 
 ###
 
-<img align="left" height="150" src="data/steaming-stressed.gif" alt="Other Gif" />
+<img align="left" height="200" src="data/steaming-stressed.gif" alt="Other Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" />
