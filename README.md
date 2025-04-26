@@ -19,7 +19,8 @@
 
 ###
 
-<img align="left" height="150" src="data/874fvf.gif" alt="AI Gif" />
+<img align="left" height="150" src="![874fvf](https://github.com/user-attachments/assets/9a3af389-713e-4d50-997d-aa4341f26a95)
+" alt="AI Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo" />
@@ -33,7 +34,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Design Gif" />
+<img align="right" height="150" src="![makima-chainsaw-man](https://github.com/user-attachments/assets/7cbaade1-8699-4ba2-be52-8c6282031284)
+" alt="Design Gif" />
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
@@ -55,7 +57,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Frontend Gif" />
+<img align="left" height="150" src="![lycoris-recoil-lycoris](https://github.com/user-attachments/assets/0707e33c-0d1b-44e5-bc06-e99b413af675)
+" alt="Frontend Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -79,7 +82,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Backend Gif" />
+<img align="right" height="150" src="![nagasaki-soyo-soyo-nagasaki](https://github.com/user-attachments/assets/e72843d4-58a7-493d-bb1f-863e035edef1)
+" alt="Backend Gif" />
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -133,7 +137,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Cloud Gif" />
+<img align="left" height="150" src="![nagatoro-ijiranaide-nagatoro-san](https://github.com/user-attachments/assets/1322c38e-b2a9-443b-825b-a3a8fc3ca562)
+" alt="Cloud Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
@@ -155,7 +160,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Programming Gif" />
+<img align="right" height="150" src="![steaming-stressed](https://github.com/user-attachments/assets/3a0a32d8-3282-4acb-8567-3b20bf13a217)
+" alt="Programming Gif" />
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -179,7 +185,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Other Gif" />
+<img align="left" height="150" src="![tenor](https://github.com/user-attachments/assets/54eab933-b9dc-48ff-b41a-08c61a1ca9fd)
+" alt="Other Gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" />
